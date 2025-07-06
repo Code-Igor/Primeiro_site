@@ -1,3 +1,5 @@
-Primeiro site que fiz, utilizando html e o básico de css.
+First website I have ever made, using HTML and basic CSS.
 
-É um site com recomendações musicais, com listas, tabela, links e etc.
+It's a very simple website with music recommendations, using lists, tables, links, etc.
+
+Maybe useful for beginners. You can use that as you like.
